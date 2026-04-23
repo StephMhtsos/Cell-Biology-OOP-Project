@@ -1,10 +1,10 @@
-# 🧬 Cell Biology Simulation in C++
+#  Cell Biology Simulation in C++
 
 A C++ object-oriented simulation of core cellular biology processes — including DNA transcription and RNA translation into proteins — modelled after real biological structures like the nucleus, ribosome, and cytoplasm.
 
 ---
 
-## 📖 Overview
+## Overview
 
 This project simulates the **Central Dogma of Molecular Biology**:
 
@@ -16,7 +16,7 @@ The program models a living cell with a nucleus containing genes, and a cytoplas
 
 ---
 
-## 🏗️ Architecture
+##🏗rchitecture
 
 The simulation is built around the following classes:
 
@@ -55,7 +55,7 @@ Each cycle:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - A C++11 (or later) compiler, e.g. `g++` or `clang++`
@@ -99,7 +99,7 @@ Produced Protein: MR (length=2) Valid? Yes
 
 ---
 
-## ✅ Input Validation
+##  Input Validation
 
 - **DNA**: Only `A`, `C`, `G`, `T` are accepted. Invalid sequences are rejected with a message.
 - **RNA**: Only `A`, `C`, `G`, `U` are accepted.
@@ -107,7 +107,7 @@ Produced Protein: MR (length=2) Valid? Yes
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -116,7 +116,7 @@ Produced Protein: MR (length=2) Valid? Yes
 
 ---
 
-## 🧪 Biological Accuracy Notes
+##  Biological Accuracy Notes
 
 - Transcription follows standard Watson-Crick base pairing rules.
 - The codon table covers all 20 amino acids with their full set of synonymous codons.
@@ -125,6 +125,6 @@ Produced Protein: MR (length=2) Valid? Yes
 
 ---
 
-## 📄 License
+## License
 
 This project is open source. Feel free to use and extend it for educational purposes.
