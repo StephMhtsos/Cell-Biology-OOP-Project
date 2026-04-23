@@ -16,7 +16,7 @@ The program models a living cell with a nucleus containing genes, and a cytoplas
 
 ---
 
-##🏗rchitecture
+## Architecture
 
 The simulation is built around the following classes:
 
