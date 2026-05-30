@@ -34,7 +34,7 @@ The simulation is built around the following classes:
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 ### Transcription (DNA → RNA)
 Each base in the DNA is complementarily transcribed:
